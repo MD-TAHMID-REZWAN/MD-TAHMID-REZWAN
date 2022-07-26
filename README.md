@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **back track**
 
-- 🌱 I’m currently learning **react native, machine language, framework etc.**
+- 🌱 I’m currently learning & searching about **react native, machine language, framework etc.**
 
 - 👯 I’m looking to collaborate with **developer, content creator**
 
