@@ -11,7 +11,7 @@
 <img align="right" width="490" src="https://newsroom.cisco.com/c/dam/r/newsroom/en/us/migrated-assets/cio-wroundtable-wrap-up-feature_800x450_thumb_040621-gif-2152474-1-0.gif" style="max-width: 100%;">
 
 
-- 🔭 I’m a graduated from American International University-Bangladesh
+- 🔭 I’m a graduate from American International University-Bangladesh
 
 - 🌱 I’m currently learning & searching about **CCNA,CyberSecurity,WebHack,Digital Forensic**
 
